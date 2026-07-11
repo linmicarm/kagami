@@ -2,8 +2,7 @@
 
 A gentle mirror for your day. Write an entry, receive a soft reflection.
 
-Portfolio project — Category 02 (AI-Integrated). The first slice of the
-larger "Save Point" life-almanac vision: just journaling + AI reflection.
+The first slice of the larger "Save Point" life-almanac vision: just journaling + AI reflection.
 
 ## Run it
 
