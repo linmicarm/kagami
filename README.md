@@ -6,7 +6,7 @@
 
 Write about how you're doing. Receive one soft reflection back — not advice, not a fix, just a quiet noticing.
 
-[Live demo](#) · [How it works](#how-it-works) · [Run it locally](#run-it-locally)
+[Live demo](https://kagami-app-sandy.vercel.app/) · [How it works](#how-it-works) · [Run it locally](#run-it-locally)
 
 </div>
 
