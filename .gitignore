@@ -1,0 +1,25 @@
+cat > .gitignore << 'EOF'
+# dependencies
+node_modules/
+
+# local env — never commit real keys
+.env
+.env.local
+.env*.local
+
+# vercel
+.vercel
+
+# build output
+dist/
+
+# logs
+*.log
+npm-debug.log*
+
+# editor/OS
+.DS_Store
+.vscode/
+EOF.vercel
+
+.vercel
